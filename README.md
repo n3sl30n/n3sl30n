@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @n3sl30n
 - 👀 I’m interested in ... DevOps Culture and SRE
 - 🌱 I’m currently learning ... python, Linux, docker, k8s, Terraform, HUAWEI CLOUD, and so on continuously
-- 💞️ I’m looking to collaborate on ... IaS deployment and management 
+- 💞️ I’m looking to collaborate on ... IaaS deployment and management 
 - 📫 How to reach me ... nsanchezl1201@gmail.com
 
 <!---
